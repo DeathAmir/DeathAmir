@@ -52,23 +52,23 @@
   </tr>
   <tr>
     <td><b>C++</b></td>
-    <td><img src="https://progress-bar.dev/80/?title=C%2B%2B&width=240&color=00599C" alt="C++ 80%"/></td>
+    <td><img src="https://progress-bar.xyz/80/?title=C%2B%2B&width=240&color=00599C" alt="C++ 80%"/></td>
   </tr>
   <tr>
     <td><b>C</b></td>
-    <td><img src="https://progress-bar.dev/85/?title=C&width=240&color=A8B9CC" alt="C 85%"/></td>
+    <td><img src="https://progress-bar.xyz/85/?title=C&width=240&color=A8B9CC" alt="C 85%"/></td>
   </tr>
   <tr>
     <td><b>Java</b></td>
-    <td><img src="https://progress-bar.dev/70/?title=Java&width=240&color=ED8B00" alt="Java 70%"/></td>
+    <td><img src="https://progress-bar.xyz/70/?title=Java&width=240&color=ED8B00" alt="Java 70%"/></td>
   </tr>
   <tr>
     <td><b>Python</b></td>
-    <td><img src="https://progress-bar.dev/75/?title=Python&width=240&color=3776AB" alt="Python 75%"/></td>
+    <td><img src="https://progress-bar.xyz/75/?title=Python&width=240&color=3776AB" alt="Python 75%"/></td>
   </tr>
   <tr>
     <td><b>Assembly</b></td>
-    <td><img src="https://progress-bar.dev/60/?title=Assembly&width=240&color=6E4C13" alt="Assembly 60%"/></td>
+    <td><img src="https://progress-bar.xyz/60/?title=Assembly&width=240&color=6E4C13" alt="Assembly 60%"/></td>
   </tr>
 </table>
 
@@ -80,11 +80,8 @@
   <a href="https://github.com/thedotmack">
     <img src="https://img.shields.io/badge/GitHub-thedotmack-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:you@example.com">
-    <img src="https://img.shields.io/badge/Email-you%40example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-yourprofile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="mailto:support@irautox.ir">
+    <img src="https://img.shields.io/badge/Email-support%40irautox.ir-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
