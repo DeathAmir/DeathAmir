@@ -4,22 +4,15 @@
 
 ---
 
-## 🧠 About Me
-
-- 🔭 Currently building low-level tools & system utilities
-- 🌱 Learning reverse engineering & binary analysis
-- 💬 Ask me about memory management, pointers, and performance tuning
-- ⚡ Fun fact: I enjoy reading disassembly more than novels
-
----
-
 ## 🛠️ Skills
 
-- **C++** — 85%
-- **C** — 88%
-- **Java** — 72%
-- **Python** — 78%
-- **Assembly** — 65%
+| Language | Icon | Level |
+| :--- | :---: | :--- |
+| C++ | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35"/> | 85% |
+| C | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35"/> | 88% |
+| Java | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35"/> | 72% |
+| Python | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35"/> | 78% |
+| Assembly | <img src="https://cdn.simpleicons.org/assembly/6E4C13" width="35"/> | 65% |
 
 ---
 
