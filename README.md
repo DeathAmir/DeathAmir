@@ -78,12 +78,17 @@
 
 <p align="center">
   <a href="https://github.com/DeathAmir">
-    <img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" width="32" height="32" alt="Ruby"/><br/>
-    <sub><b>DeathAmir</b></sub>
+    <img src="https://img.shields.io/badge/DeathAmir-181717?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjY2MwMDAwIiBkPSJNMzQ1IDg2bC0xMzAgMTI3IDU2IDk1IDExMS0xMzZ6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1MCAxMjBsLTEwMCA5MCAxNjAgMTUwIDExMC0xMjB6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1MCAxMjBsLTEwMCA5MCAxNjAgMTUwIDExMC0xMjB6Ii8+PC9zdmc+&logoColor=white" alt="DeathAmir"/>
   </a>
-  <br/><br/>
   <a href="mailto:support@irautox.ir">
     <img src="https://img.shields.io/badge/Email-support%40irautox.ir-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://edent.github.io/SuperTinyIcons/images/svg/json.svg" width="32" height="32" alt="JSON" style="margin-left: 8px;"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DeathAmir/DeathAmir/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
