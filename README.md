@@ -1,7 +1,7 @@
 <h1 align="center">💻 Software Developer | Low-Level Enthusiast | Problem Solver</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+C+%7C+Java+%7C+Python+%7C+Assembly;Low-Level+Programming+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=C%2B%2B+%7C+C+%7C+Java+%7C+Python+%7C+Assembly%20%7C%20NodeJS;Low-Level+Programming+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -10,6 +10,7 @@
   <img src="https://img.shields.io/badge/Code-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Code-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Code-Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/Code-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
 </p>
 
 ---
@@ -37,6 +38,10 @@
     <td align="center" width="100">
       <img src="https://img.shields.io/badge/Assembly-6E4C13?style=for-the-badge&logo=assemblyscript&logoColor=white" alt="Assembly"/><br/>
       <sub><b>Assembly</b></sub>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/><br/>
+      <sub><b>NodeJS</b></sub>
     </td>
   </tr>
 </table>
@@ -70,6 +75,10 @@
     <td><b>Assembly</b></td>
     <td><img src="https://progress-bar.xyz/60/?title=Assembly&width=240&color=6E4C13" alt="Assembly 60%"/></td>
   </tr>
+  <tr>
+    <td><b>NodeJS</b></td>
+    <td><img src="https://progress-bar.xyz/70/?title=NodeJS&width=240&color=339933" alt="NodeJS 70%"/></td>
+  </tr>
 </table>
 
 ---
@@ -77,18 +86,11 @@
 ## 📫 Reach Me
 
 <p align="center">
+  <img src="https://edent.github.io/SuperTinyIcons/images/svg/ruby.svg" width="32" height="32" alt="Ruby" style="vertical-align: middle; margin-right: 8px;"/>
   <a href="https://github.com/DeathAmir">
-    <img src="https://img.shields.io/badge/DeathAmir-181717?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48cGF0aCBmaWxsPSIjY2MwMDAwIiBkPSJNMzQ1IDg2bC0xMzAgMTI3IDU2IDk1IDExMS0xMzZ6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1MCAxMjBsLTEwMCA5MCAxNjAgMTUwIDExMC0xMjB6Ii8+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTE1MCAxMjBsLTEwMCA5MCAxNjAgMTUwIDExMC0xMjB6Ii8+PC9zdmc+&logoColor=white" alt="DeathAmir"/>
+    <img src="https://img.shields.io/badge/DeathAmir-181717?style=for-the-badge&logo=github&logoColor=white" alt="DeathAmir" style="vertical-align: middle;"/>
   </a>
   <a href="mailto:support@irautox.ir">
-    <img src="https://img.shields.io/badge/Email-support%40irautox.ir-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-support%40irautox.ir-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="vertical-align: middle;"/>
   </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DeathAmir/DeathAmir/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
